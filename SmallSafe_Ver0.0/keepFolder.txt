@@ -1,0 +1,2 @@
+if no file in the folder(SmallSafe_Ver0.0), use a git tool to update will delete the folder. 
+so we add this file to fix this.
